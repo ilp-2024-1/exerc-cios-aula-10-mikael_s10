@@ -8,6 +8,6 @@ n2 = int(input('Digite um valor: '))
 
 for i in range(n1 + 1, n2 ):
     v_ini = i
-    print(v_ini)
     v_fim = i
-
+    print(i)
+print('Fim')
